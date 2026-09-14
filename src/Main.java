@@ -4,7 +4,7 @@ import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartPanel;
 
 import org.jfree.data.xy.XYSeries;
-import jfree.data.xy.XYSeriesCollection;
+import org.jfree.data.xy.XYSeriesCollection;
 
 public class Main {
   static double mass = 2000;
